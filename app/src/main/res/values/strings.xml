@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Preço Justo App</string>
+    <string name="label_product">Nome do Produto</string>
+    <string name="hint_product">Digite o nome do produto</string>
+    <string name="label_value">Valor</string>
+    <string name="hint_value">Digite o valor do produto</string>
+    <string name="label_quantity">Qtd. Parc.</string>
+    <string name="hint_quantity">Qtd. Parc.</string>
+    <string name="label_interest">Juros (%)</string>
+    <string name="hint_interest">0</string>
+    <string name="btn_calculate">Calcular</string>
+    <string name="btn_clear">Limpar Dados</string>
+    <string name="text_product">Produto:</string>
+    <string name="text_initial_cost">Valor Inicial:</string>
+    <string name="individual_installment_cost">Valor Parcelas:</string>
+    <string name="total_cost">Valor Total:</string>
+    <string name="total_interest">Total de Juros:</string>
+    <string name="text_check_down_payment">Entrada</string>
+</resources>
